@@ -102,7 +102,7 @@ html_temp = """
    <div class="" style="background-color:blue;" >
    <div class="clearfix">           
    <div class="col-md-12">
-   <center><p style="font-size:40px;color:white;margin-top:10px;">NLP Sentiment Analysis</p></center> 
+   <center><p style="font-size:40px;color:white;margin-top:10px;">NLP Sentiment Analysis project</p></center> 
    <center><p style="font-size:30px;color:white;margin-top:10px;">LSTM</p></center> 
    <center><p style="font-size:25px;color:white;margin-top:10px;">Tweet data Analysis</p></center> 
    </div>
